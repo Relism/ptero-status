@@ -6,7 +6,9 @@ sites:
   - name: Panel
     url: https://panel.relimc.com
   - name: Node-1
-    url: https://panel.relimc.com
+    check: "tcp-ping"
+    url: 129.152.9.46
+    port: 2022
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
