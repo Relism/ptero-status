@@ -15,13 +15,13 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://media.discordapp.net/attachments/848270464019071006/1008002595987652608/rhosting-only_logo.png
   name: RHosting
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**RHosting** provides you with genuine, real-time data to keep track of the nodes uptime and availability."
+  introMessage: Feel free to use this data as you please, **notify** us on [Discord](https://github.com/upptime/upptime) if a node is experiencing severe downtime."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Panel
+      href: https://panel.relimc.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
