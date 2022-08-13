@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://media.discordapp.net/attachments/848270464019071006/1008002595987652608/rhosting-only_logo.png
   name: RHosting
   introTitle: "**RHosting** provides you with genuine, real-time data to keep track of the nodes uptime and availability."
-  introMessage: Feel free to use this data as you please, **notify** us on [Discord](https://github.com/upptime/upptime) if a node is experiencing severe downtime."
+  introMessage: Feel free to use this data as you please, **notify** us on [Discord](https://github.com/upptime/upptime) if a node is experiencing severe downtime.
   navbar:
     - title: Status
       href: /
