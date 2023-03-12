@@ -4,10 +4,10 @@
     "url": "https://panel.relimc.com",
     "icon": "https://icons.duckduckgo.com/ip3/panel.relimc.com.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "98.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "87.42%",
     "uptimeYear": "98.12%",
     "time": 721,
@@ -16,6 +16,7 @@
     "timeMonth": 812,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2023-03-12": 1,
       "2023-02-20": 127,
       "2023-02-16": 1273,
       "2023-02-15": 1440,
@@ -30,7 +31,7 @@
     "url": "129.152.9.46",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -42,6 +43,7 @@
     "timeMonth": 135,
     "timeYear": 124,
     "dailyMinutesDown": {
+      "2023-03-12": 0,
       "2022-09-23": 160
     }
   }
