@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.relimc.com.ico",
     "slug": "panel",
     "status": "up",
-    "uptime": "95.56%",
+    "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.76%",
     "time": 549,
-    "timeDay": 417,
-    "timeWeek": 517,
-    "timeMonth": 495,
+    "timeDay": 393,
+    "timeWeek": 490,
+    "timeMonth": 494,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2024-01-17": 19,
@@ -46,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1",
     "status": "down",
-    "uptime": "39.41%",
+    "uptime": "39.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-04": 58,
+      "2024-05-05": 62,
+      "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -420,8 +421,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 1440,
-      "2023-05-06": 1440
+      "2023-05-07": 1440
     }
   }
 ]
