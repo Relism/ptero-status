@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.relimc.com.ico",
     "slug": "panel",
     "status": "up",
-    "uptime": "95.77%",
+    "uptime": "95.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.14%",
-    "time": 531,
-    "timeDay": 413,
-    "timeWeek": 464,
-    "timeMonth": 442,
+    "uptimeYear": "95.42%",
+    "time": 530,
+    "timeDay": 581,
+    "timeWeek": 496,
+    "timeMonth": 447,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2024-01-17": 19,
@@ -32,8 +32,7 @@
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
-      "2023-06-08": 1440,
-      "2023-06-07": 1440
+      "2023-06-08": 1440
     }
   },
   {
@@ -42,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1",
     "status": "down",
-    "uptime": "37.50%",
+    "uptime": "37.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 125,
+    "time": 126,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-05": 62,
+      "2024-06-06": 62,
+      "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
@@ -416,8 +416,7 @@
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
-      "2023-06-08": 1440,
-      "2023-06-07": 1440
+      "2023-06-08": 1440
     }
   }
 ]
